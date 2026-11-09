@@ -1,16 +1,20 @@
-## Hi there 👋
+# Youcef Talbi
 
-<!--
-**talyoucef/talyoucef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Master 2 student in Networks and Telecommunications (ESIEE Paris / Université Gustave Eiffel), with prior experience in 4G network deployment and monitoring at Algérie Télécom. Looking for a 6-month end-of-studies internship in France, available immediately.
 
-Here are some ideas to get you started:
+## What I work on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Radio and signal processing:** CDMA, QPSK/OFDM, SDR with GNU Radio
+- **Network automation:** Python, Netmiko, GNS3
+- **Data for telecom:** anomaly detection on radio signals (RSSI/SNR)
+
+## Selected projects
+
+- [CDMA receiver with Gold sequences](https://github.com/talyoucef/cdma-gold-sensor-demodulation): MATLAB receiver that separates two sensors on the same channel and rebuilds their images
+- [Network automation toolkit](https://github.com/talyoucef/network-automation-toolkit): automated config backup and drift detection with Python/Netmiko
+- [Radio signal anomaly detection](https://github.com/talyoucef/anomaly-detector): Isolation Forest on simulated RSSI/SNR data
+- [SDR signal processing](https://github.com/talyoucef/sdr-signal-processing): QPSK chain in GNU Radio with simulated noisy channel
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/youcef-talbi-b8322b298/)
