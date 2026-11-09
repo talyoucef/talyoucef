@@ -1,7 +1,6 @@
 # Youcef Talbi
 
-Master 2 student in Networks and Telecommunications (ESIEE Paris / Université Gustave Eiffel), with prior experience in 4G network deployment and monitoring at Algérie Télécom. Looking for a 6-month end-of-studies internship in France, available immediately.
-
+Master 2 student in Networks and Telecommunications (ESIEE Paris / Université Gustave Eiffel)
 ## What I work on
 
 - **Radio and signal processing:** CDMA, QPSK/OFDM, SDR with GNU Radio
